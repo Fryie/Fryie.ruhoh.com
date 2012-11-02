@@ -3,4 +3,4 @@ title : About Me
 description:
 ---
 
-Hello, how are you?
+I will write something meaningful here. Some time. I swear.

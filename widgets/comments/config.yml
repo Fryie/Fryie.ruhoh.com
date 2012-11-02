@@ -1,12 +1,3 @@
-layout : disqus
-disqus :
-  short_name : jekyllbootstrap
-livefyre :
-  site_id : 123
+layout : intensedebate
 intensedebate :
-  account : 123abc
-facebook :
-  appid : 123
-  num_posts: 5
-  width: 580
-  colorscheme: light
+  account : 26d72253a5500be7f6c5a24b1a759d5b

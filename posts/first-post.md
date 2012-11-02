@@ -13,4 +13,4 @@ I am a German native speaker, but I try to convince myself that I will target a 
 
 If the design of the blog doesn't suit your tastes, you're not alone - neither does it suit mine. I am, however, much too lazy (and too incompetent a designer) to change that. At least for the moment.
 
-P.S.: The title of this entry has nothing to do with its contents. It's just that Latin always sounds so *insightful*.
+*P.S.*: The title of this entry has nothing to do with its contents. It's just that Latin always sounds so *insightful*.

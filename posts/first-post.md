@@ -13,7 +13,7 @@ There have been quite some opportunities where I've wanted to share some insight
 
 I do have quite a number of interests - linguistics, programming, music, politics, you name it; I hope this doesn't put off people who are only interested in the one or the other aspect. I'll group the blog entries into categories in case this helps.
 
-I'm not yet quite decided on the language issues. English is undoubtedly going to reach a larger audience; the question is whether I do have such an international audience at all; most of my friends speak German and not all of them are that comfortable with reading English. I will probably decide on a case-by-case basis in which language to blog.
+I'm not yet quite decided on the language issue. English is undoubtedly going to reach a larger audience; the question is whether I do have such an international audience at all; most of my friends speak German and not all of them are that comfortable with reading English. I will probably decide on a case-by-case basis in which language to blog.
 
 This is going to be new territory for me, but I'll try to do my best.
 

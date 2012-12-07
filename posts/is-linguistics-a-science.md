@@ -16,7 +16,7 @@ In linguistics as well we have (and have had) a proliferation of fashions, theor
 
 Similarly, linguistics as a field lacks an underlying, unifying theory. Of course there have been proposals &mdash; [Universal Grammar](http://en.wikipedia.org/wiki/Universal_Grammar) had exactly this goal in mind &mdash; but none of them has provided us with empirically testable hypotheses.
 
-If we take &ldquo;science&rdquo; to mean a field of study that rigorously employs the [scientific method](http://en.wikipedia.org/wiki/Scientific_method) &mdash; that is, that systematically develops hypotheses and designs experiments to empirically test them &mdash; we find that *parts* of linguistic research can be conducted in a scientific way (for example, we may investigate whether male speakers are more likely to use the gerund ending *-in'*, as opposed to the form *-ing* than women are), the core questions of linguistics &mdash; how do humans actually produce and understand language &mdash; don't seem to be amenable to this kind of empirical research.
+If we take &ldquo;science&rdquo; to mean a field of study that rigorously employs the [scientific method](http://en.wikipedia.org/wiki/Scientific_method) &mdash; that is, that systematically develops hypotheses and designs experiments to empirically test them &mdash; we find that *parts* of linguistic research can be conducted in a scientific way (for example, we may investigate whether male speakers are more likely to use the gerund ending *-in'*, as opposed to the form *-ing* than women are), but the core questions of linguistics &mdash; how do humans actually produce and understand language &mdash; don't seem to be amenable to this kind of empirical research.
 
 So where does that leave us?
 

@@ -8,7 +8,7 @@ tags: ['kurzgeschichte', 'deutsch']
 
 And now for something completely different.
 
-Ich habe vor ein paar Jahren mal eine kleine Kurzgeschichte geschrieben; nichts Weltbewegendes, aber ich bin nun vor kurzem wieder darauf gestoßen. Ich habe die Gelegenheit genutzt, etwas mit [LaTeX](http://de.wikipedia.org/wiki/LaTeX) herumzuspielen und die Geschichte etwas schön zu setzen &ndash; das Ergebnis kann man [hier]({{urls.media}}/kg.pdf) betrachten. Leider fehlt mir noch ein griffiger Titel, Vorschläge sind stets willkommen, ebenso wie Kritik.
+Ich habe vor ein paar Jahren mal eine kleine Kurzgeschichte geschrieben; nichts Weltbewegendes, aber ich bin nun vor kurzem wieder darauf gestoßen. Ich habe die Gelegenheit genutzt, etwas mit [LaTeX](http://de.wikipedia.org/wiki/LaTeX) herumzuspielen und die Geschichte etwas schön zu setzen &ndash; das Ergebnis kann man [hier]({{urls.media}}/kg.pdf) betrachten. Leider fehlt mir noch ein griffiger Titel, Vorschläge sind stets willkommen, ebenso wie Kritik. ***Update:*** Jetzt mit größerem Zeilenabstand. ;)
 
 Da naturgemäß manche Menschen zu faul sind, ein PDF zu öffnen, setze ich die Geschichte auch noch einmal hier rein; das Ergebnis ist natürlich nicht ganz so hübsch, aber der Inhalt derselbe.
 
